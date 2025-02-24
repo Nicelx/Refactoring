@@ -19,5 +19,6 @@
 
             System.out.println(customer.statement());
             System.out.println(customer2.statement());
+            // System.out.println(customer2.htmlStatement());
          }
      }
