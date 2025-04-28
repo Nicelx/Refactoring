@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+      "tests\\junit-3.8.1.jar"
+    ],
+    "java.test.config": {
+      "workingDirectory": "${workspaceFolder}"
+    },
+    "java.project.sourcePaths": [
+      "."
+    ]
+  }
